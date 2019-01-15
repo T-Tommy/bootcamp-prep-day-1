@@ -1,4 +1,3 @@
-# bootcamp-prep-day-1
-can I haz code change?
-No passwords
-Last one
+# Bootcamp Prep Day 1
+
+We done yet?
